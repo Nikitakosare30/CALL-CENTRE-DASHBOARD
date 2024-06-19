@@ -1,7 +1,7 @@
 # CALL-CENTRE-DASHBOARD
 <h3><b>Table of Contents :</h3></b>
 <ul>
-<li style="color:blue">Problem Statement</li>
+<li><a href="#">Problem Statement</a></li>
 Datasource
 Data Preparation
 Data Modelling
