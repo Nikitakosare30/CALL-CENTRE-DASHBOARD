@@ -64,7 +64,6 @@ Data visualization for the data analysis (DAX) was done in Microsoft Power BI De
 Dashboard: View Dashboard
 Shows visualizations from Call Center Dashboard :
 
-<img src="call centre.png"/>
-
+<img src="call centre.png" width="100%"/>
 <img src="call centre grid.png"/>
 
