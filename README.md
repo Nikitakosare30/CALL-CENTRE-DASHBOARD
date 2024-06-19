@@ -2,14 +2,14 @@
 <h3><b>Table of Contents :</h3></b>
 <ul>
 <li><a href="#">Problem Statement</a></li>
-Datasource
-Data Preparation
-Data Modelling
-Data Analysis (DAX)
-Data Visualization Dashboard
-Insights
+<li><a href="#">Datasource</a></li>
+<li><a href="#">Data Preparation</a></li>
+<li><a href="#">Data Modelling</a></li>
+<li><a href="#">Data Analysis (DAX)</a></li>
+<li><a href="#">Data Visualization Dashboard</a></li>
+<li><a href="#">Insights</a></li>
 </ul>
-Problem Statement :
+<h1>Problem Statement :</h1>
 
 In this project Create a dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
@@ -58,7 +58,7 @@ total calls answered = COUNTX(FILTER('call centre trends','call centre trends'[A
 
 total calls unanswred =COUNTX(FILTER('call centre trends','call centre trends'[Answered (Y/N)] = "No"), 'call centre trends'[Answered (Y/N)])
 
-Data Visualization (Dashboard) :
+<h1>Data Visualization (Dashboard) :</h1>
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
 Dashboard: View Dashboard
