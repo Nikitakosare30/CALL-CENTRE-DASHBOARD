@@ -1,14 +1,14 @@
 # CALL-CENTRE-DASHBOARD
 <h3><b>Table of Contents :</h3></b>
-
-Problem Statement
+<ul>
+<li>Problem Statement</li>
 Datasource
 Data Preparation
 Data Modelling
 Data Analysis (DAX)
 Data Visualization Dashboard
 Insights
-
+</ul>
 Problem Statement :
 
 In this project Create a dashboard in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
